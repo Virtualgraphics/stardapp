@@ -5,7 +5,7 @@ import styles from '@/styles/Home.module.css'
 import type { NextPage } from 'next';
 import { Default } from 'components/layouts/Default';
 import { Home } from 'components/templates/home';
-import Modal from '@/components/modules/particles';
+
 
 const HomePage: NextPage = () => {
   return (

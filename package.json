@@ -12,7 +12,6 @@
     "@headlessui/react": "^1.7.11",
     "@heroicons/react": "^2.0.16",
     "@next/font": "13.1.6",
-    "@styled-icons/heroicons-outline": "^10.47.0",
     "@thirdweb-dev/react": "^3.9.1",
     "@thirdweb-dev/sdk": "^3.9.1",
     "@types/node": "18.14.0",
