@@ -48,7 +48,7 @@ const claimConditions = useClaimConditions(nftDrop);
         </h2>
         <hr className="w-full  border-yellow-200" />
         <p className="text-base text-white lg:text-xl md:text-lg mb-6 sm:px-4 py-5 font-Proza">
-        Use your NFT Alien Character in a top-down single player RPG directly in your browser and collect tokens while powering up your Stargate in the DeFi Game.
+        Use your NFT Alien Character in a single player, third person RPG directly in your browser and collect tokens while powering up your Stargate in the DeFi Game.
         </p>
       </div>
 
@@ -64,8 +64,8 @@ const claimConditions = useClaimConditions(nftDrop);
               width={750}
               height={750}
             />
-          <h1 className="text-yellow-100 font-bold text-xl flex items-center justify-center">LOTUS Token</h1>
-          <h2 className="text-white text-md pt-2 pb-4 flex items-center justify-center">Claim LOTUS Tokens</h2>
+          <h1 className="text-yellow-100 font-bold text-xl flex items-center justify-center">Lightbeings from Vega</h1>
+          <h2 className="text-white text-md pt-2 pb-4 flex items-center justify-center">Mint your NFT</h2>
           <button className="bg-blue-500 hover:bg-blue-700 text-white w-40 h-10 font-bold px-4 rounded m-auto flex items-center justify-center">
             Coming soon</button>
   
@@ -81,8 +81,8 @@ const claimConditions = useClaimConditions(nftDrop);
               height={750}
             />
 
-          <h1 className="text-yellow-100 font-bold text-xl flex items-center justify-center">LOTUS Token</h1>
-          <h2 className="text-white text-md pt-2 pb-4 flex items-center justify-center">Claim LOTUS Tokens</h2>
+          <h1 className="text-yellow-100 font-bold text-xl flex items-center justify-center">Ethereals from Teka</h1>
+          <h2 className="text-white text-md pt-2 pb-4 flex items-center justify-center">Mint your NFT</h2>
           
           <button className="bg-blue-500 hover:bg-blue-700 text-white w-40 h-10 font-bold px-4 rounded m-auto flex items-center justify-center">
             Coming soon</button>
@@ -100,8 +100,8 @@ const claimConditions = useClaimConditions(nftDrop);
               height={750}
             />
 
-          <h1 className="text-yellow-100 font-bold text-xl flex items-center justify-center">LOTUS Token</h1>
-          <h2 className="text-white text-md pt-2 pb-4 flex items-center justify-center">Claim LOTUS Tokens</h2>
+          <h1 className="text-yellow-100 font-bold text-xl flex items-center justify-center">Lion People from Avyon</h1>
+          <h2 className="text-white text-md pt-2 pb-4 flex items-center justify-center">Mint your NFT</h2>
 
           <div className='w-60 flex items-center justify-center m-auto'>
           <Web3Button accentColor='black'
@@ -133,8 +133,8 @@ const claimConditions = useClaimConditions(nftDrop);
               height={750}
             />
 
-          <h1 className="text-yellow-100 font-bold text-xl flex items-center justify-center">LOTUS Token</h1>
-          <h2 className="text-white text-md pt-2 pb-4 flex items-center justify-center">Claim LOTUS Tokens</h2>
+          <h1 className="text-yellow-100 font-bold text-xl flex items-center justify-center">Subterreans from MU</h1>
+          <h2 className="text-white text-md pt-2 pb-4 flex items-center justify-center">Mint your NFT</h2>
           <button className="bg-blue-500 hover:bg-blue-700 text-white w-40 h-10 font-bold px-4 rounded m-auto flex items-center justify-center">
             Coming soon</button>
   </div>
